@@ -1,5 +1,5 @@
 # EX 5C Graph coloring
-## DATE: 07/09/2026
+## DATE: 28/08/2026
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -55,8 +55,8 @@ Otherwise, print "NO".
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
