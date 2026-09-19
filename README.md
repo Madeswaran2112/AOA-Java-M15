@@ -70,8 +70,8 @@ For example:
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -232,8 +232,8 @@ If not, print "Release cannot be scheduled".
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -364,8 +364,8 @@ Otherwise, print "NO".
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -491,8 +491,8 @@ A valid flower assignment always exists
 ```
 /*
 Program to implement Reverse a String
-Developed by: VAmsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -603,8 +603,8 @@ Find the MST using Boruvka's Algorithm for a weighted undirected graph.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
