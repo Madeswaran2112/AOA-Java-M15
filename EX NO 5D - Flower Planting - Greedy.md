@@ -1,6 +1,6 @@
 
 # EX 5D Flower Planting.
-## DATE: 09/09/2026
+## DATE: 28/08/2026
 ## AIM:
 To write a Java program to for given constraints.
 You are given n gardens, labelled from 1 to n.
@@ -56,8 +56,8 @@ A valid flower assignment always exists
 ```
 /*
 Program to implement Reverse a String
-Developed by: VAmsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
